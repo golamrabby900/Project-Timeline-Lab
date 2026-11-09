@@ -122,6 +122,7 @@ Do not publish database passwords or private credentials.
 ### Trigonometry Question
 
 ![Trigonometry](screenshots/Tan.png)
+![Trigonometry](screenshots/sin.png)
 
 ### Final Result
 
