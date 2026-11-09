@@ -109,7 +109,7 @@ Do not publish database passwords or private credentials.
 
 ### Welcome Page
 
-![Welcome Page](screenshots/welcome.png)
+![Welcome Page](screenshots/Welcome.png)
 
 ### Prime Number Question
 
@@ -117,27 +117,23 @@ Do not publish database passwords or private credentials.
 
 ### Modulus Question
 
-![Modulus Question](screenshots/modulus.png)
+![Modulus Question](screenshots/Mod.png)
 
 ### Trigonometry Question
 
-![Trigonometry](screenshots/trigonometry.png)
-
-### Answer Feedback
-
-![Feedback](screenshots/feedback.png)
+![Trigonometry](screenshots/Tan.png)
 
 ### Final Result
 
-![Result](screenshots/result.png)
+![Result](screenshots/Final.png)
 
 ### Leaderboard
 
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](screenshots/Leaderboard.png)
 
 ### Database Records
 
-![Database](screenshots/database.png)
+![Database](screenshots/Database.png)
 
 ## 11. Author
 
